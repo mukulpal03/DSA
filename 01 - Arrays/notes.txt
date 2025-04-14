@@ -1,0 +1,2 @@
+1. Continous memory allocation
+2. can hold only similar datatype
