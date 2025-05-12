@@ -1,2 +1,5 @@
 1. Continous memory allocation
 2. can hold only similar datatype
+
+imp ques 
+1. LC - 48
